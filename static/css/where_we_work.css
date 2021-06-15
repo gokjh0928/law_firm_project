@@ -4,6 +4,15 @@ body {
 
 #page {
     background-color: white;
+    padding: 0;
+}
+
+div.header-content#page {
+    padding-bottom: 13px;
+    padding-left: 35px;
+}
+
+main.container#page {
     padding: 2% 3% 0 4%;
 }
 
